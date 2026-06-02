@@ -1,0 +1,21 @@
+i# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Node
+node_modules/
+build/
+
+# Env
+.env
+*.env
+
+# Docker
+.docker/
+
+# OS
+.DS_Store
+Thumbs.db
